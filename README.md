@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello There! I am a 4th Year UG Mechanical Engineering student at IIT Kharagpur with a focus on mechanical design, product development, and hardware modelling. My approach is defined by practical, hands on problem solving. Using CAD, FEA and MATLAB, I bridge the gap between simulations and hardware, excelling on the challenge of building functional systems that solve real world engineering problems.
 
 <!--
 **akshargarg/akshargarg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
